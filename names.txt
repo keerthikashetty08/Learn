@@ -1,0 +1,20 @@
+In this tutorial you will understand what Git is and how to use it on the remote repository platforms, like GitHub. You can choose, and change, which platform to focus on by clicking in the menu on the right:
+*   [GitHub](https://github.com/)
+*   [GitLab](https://about.gitlab.com/)
+*   [Bitbucket](https://bitbucket.org/)
+### Step 1: Create a GitHub Account
+To start using GitHub, you need to create an account. Go to the GitHub website and click on
+[Sign up](https://github.com/join). Fill in the required information, such as your
+username, email address, and password. You can also connect your GitHub account to your
+[GitHub Student Developer Pack](https://education.github.com/pack) if you are a student.
+### Step 2: Create a New Repository
+Once you have created your GitHub account, you can create a new repository. Click on the
+[+ New](https://github.com/new) button in the top right corner of the GitHub dashboard
+. Fill in the required information, such as the repository name, description, and
+visibility. You can choose to make your repository public or private. If you choose to make
+it public, anyone can view and clone your repository. If you choose to make it private,
+only people with access can view and clone your repository.
+### Step 3: Initialize a Git Repository
+To start using Git, you need to initialize a Git repository in your local project directory. Open a
+terminal or command prompt and navigate to your project directory. Run the following
+command to initialize a new Git repository:
